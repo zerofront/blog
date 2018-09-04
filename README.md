@@ -17,3 +17,4 @@ A website containing a diary or journal on CS subject
 ### 网络相关
 - [HTTPS](https://github.com/zerofront/blog/issues/2)
 - [前端安全](https://github.com/zerofront/blog/issues/3)
+- [缓存](https://github.com/zerofront/blog/issues/4)
